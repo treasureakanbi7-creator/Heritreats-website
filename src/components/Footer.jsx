@@ -38,12 +38,11 @@ export default function Footer() {
 
       <footer className="bg-brand-dark text-white p-10 text-center">
         <div className="flex flex-wrap justify-center gap-x-8 gap-y-4 text-base font-medium mb-4">
-          <a href="#" className="hover:text-brand-accent transition-colors">About</a>
-          <a href="#" className="hover:text-brand-accent transition-colors">Community</a>
-          <a href="#" className="hover:text-brand-accent transition-colors">Team</a>
-          <a href="#" className="hover:text-brand-accent transition-colors">Admission</a>
-          <a href="#" className="hover:text-brand-accent transition-colors">News</a>
-          <a href="#contact" className="hover:text-brand-accent transition-colors">Contacts</a>
+          <a href="#values" className="hover:text-brand-accent transition-colors">About</a>
+          <a href="#community" className="hover:text-brand-accent transition-colors">Community</a>
+          <a href="#team" className="hover:text-brand-accent transition-colors">Team</a>
+          <a href="#apply" className="hover:text-brand-accent transition-colors">Admission</a>
+                  <a href="#contact" className="hover:text-brand-accent transition-colors">Contacts</a>
         </div>
       </footer>
     </>

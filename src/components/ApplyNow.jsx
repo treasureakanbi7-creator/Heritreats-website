@@ -54,7 +54,7 @@ export default function ApplyNow() {
   }
 
   return (
-    <section className="bg-[#FAF8F7] py-16 px-6 md:px-12 min-h-screen">
+    <section id='apply' className="bg-[#FAF8F7] py-16 px-6 md:px-12 min-h-screen">
       <div className="max-w-3xl mx-auto bg-white p-8 md:p-12 rounded-3xl shadow-xl border border-gray-100">
         <div className="text-center mb-10">
           <h2 className="text-3xl md:text-4xl font-extrabold text-brand-dark mb-4">Student Application Form</h2>

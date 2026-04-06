@@ -18,7 +18,7 @@ export default function Team() {
   ];
 
   return (
-    <section className="bg-[#FAF8F7] p-8 md:p-16">
+    <section id='team' className="bg-[#FAF8F7] p-8 md:p-16">
       <div className="max-w-5xl mx-auto text-center">
         <h2 className="text-3xl font-bold text-brand-dark mb-4">The Team of Professional Teachers and Heads of School</h2>
         <p className="text-gray-600 text-lg mb-12 max-w-2xl mx-auto">
